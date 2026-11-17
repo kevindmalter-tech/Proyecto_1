@@ -5,3 +5,6 @@
 {"name": "aa", "id": "999", "role": "student", "password": "999"}
 {"name": "Profesor", "id": "profesor", "role": "professor", "password": "1234"}
 {"name": "Alumno", "id": "alumno", "role": "student", "password": "1234"}
+{"name": "juan", "id": "123", "role": "Profesor", "password": "987"}
+{"name": "juan", "id": "1234", "role": "student", "password": "987"}
+{"name": "alex", "id": "1089", "role": "professor", "password": "789"}
